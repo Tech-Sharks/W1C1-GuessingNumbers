@@ -54,13 +54,16 @@ Congratulations! You guessed the number in 4 attempts.
 
 ### Customization
 Feel free to customize the game to add your own creative features or modify the existing ones. Here are a few ideas:
-- Allow the player to choose the range of numbers.
-- Implement a scoring system based on the number of attempts.
-- Add a time limit for each guess.
-- Create a leaderboard to keep track of the best scores.
+- Allow the player to choose the range of numbers. (+1 point)
+- Implement a scoring system based on the number of attempts. (+5 points)
+- Add a time limit for each guess. (+5 points)
+- Create a leaderboard to keep track of the best scores. (+10 points)
+
+### Housekeeping
+- Good coding practices (+15 points)
 
 ### Contributing
-Contributions are welcome! If you have any ideas or improvements, feel free to submit a pull request.
+In order to submit your completed code, do so in the TechSharks discord server. Do not push anything to the main repository. 
 
 ### License
 This project is licensed under the [MIT License](LICENSE).
