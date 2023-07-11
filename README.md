@@ -69,3 +69,6 @@ This project is licensed under the [MIT License](LICENSE).
 The "Guess the Number Game" project was inspired by various similar projects and is meant for educational purposes.
 
 That's it! Enjoy playing the "Guess the Number Game" and have fun experimenting with the code. Happy coding!
+Make sure to follow the Tech Sharks platform on all social medias!
+
+Project created by Keelan Bell, Tech Sharks mentor.
