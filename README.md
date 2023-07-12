@@ -1,7 +1,7 @@
 # Week1TechSharks
 Project #1 for the Tech Sharks Community - Learn to Code with Tech Sharks!
 
-Below you will find a handful of different projects that anyone of any skill level can complete in JAVA. 
+Below you will find the first of our coding challenges!
 
 ## Guess the Number Game
 
