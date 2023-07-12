@@ -1,4 +1,4 @@
-# Week1TechSharks
+# Week 1 Tech Sharks Challenge #1
 Project #1 for the Tech Sharks Community - Learn to Code with Tech Sharks!
 
 Below you will find the first of our coding challenges!
