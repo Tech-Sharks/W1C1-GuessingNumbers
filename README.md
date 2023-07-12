@@ -1,7 +1,7 @@
 # Week1TechSharks
 Project #1 for the Tech Sharks Community - Learn to Code with Tech Sharks!
 
-Sure! Here's a fun and creative Java project that anyone of any skill level can do: "Guess the Number Game."
+Below you will find a handful of different projects that anyone of any skill level can complete in JAVA. 
 
 ## Guess the Number Game
 
